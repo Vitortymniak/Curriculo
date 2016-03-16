@@ -1,0 +1,20 @@
+h4 {
+       Font-weight: 100;
+}
+
+.imagem > .eu {
+  width: 18%;
+  border-radius: 50%;
+  float: right;
+}
+
+.divprincipal {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: #f0f0f0;
+}
+
+.centro {
+  padding-left: 20px;
+
+}
